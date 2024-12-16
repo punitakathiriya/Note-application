@@ -67,7 +67,7 @@ A full-stack notes application with React frontend and Node.js backend. The appl
 
 3. Start the server:
    ```bash
-   node index
+   npm run dev
    ```
    The server will run on port 3001.
 
